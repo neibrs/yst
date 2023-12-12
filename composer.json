@@ -1,0 +1,15 @@
+{
+    "name": "for023/yst",
+    "autoload": {
+        "psr-4": {
+            "For023\\Yst\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Johnie",
+            "email": "80285394@qq.com"
+        }
+    ],
+    "require": {}
+}
